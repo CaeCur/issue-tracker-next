@@ -1,6 +1,6 @@
 # Issue Tracker (Next.js)
 
-## Issue tracking web app that can be used to report and track tasks and bugs in your projects.4
+## Issue tracking web app that can be used to report and track tasks and bugs in your projects.
 
 # Description
 
